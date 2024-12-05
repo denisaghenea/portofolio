@@ -374,6 +374,10 @@ input:checked + label .description {
     background-image: url(education/graduation.jpg);
 }
 
+.card[for="c4"] {
+    background-image: url(education/cs50..png);
+}
+
 .about p {
     font-size: 1em;
     color: white;
